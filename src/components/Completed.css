@@ -1,0 +1,14 @@
+.completed-styling {
+    padding-left: 0px;
+    /* text-align: left; */
+    font-size: 20px;
+    font-weight: 500;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    /* justify-content: center; */
+    color: rgb(52, 168, 41);
+    text-transform: capitalize;
+    
+}
